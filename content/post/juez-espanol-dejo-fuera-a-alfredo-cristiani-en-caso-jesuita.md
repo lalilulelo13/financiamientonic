@@ -5,7 +5,6 @@ title: Juez español dejó fuera a Alfredo Cristiani en caso jesuita
 excerpt: ''
 date: 2022-02-23T06:00:00+00:00
 hero: "/images/f-elconfidencial-com_original_c61_e58_55d_c61e5855d4aaefa0765d2000f6c08516.jpg"
-draft: true
 
 ---
 **El magistrado alegó que no había evidencia para respaldar ningún reclamo en contra del exmandatario salvadoreño.**
