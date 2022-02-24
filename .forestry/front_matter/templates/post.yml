@@ -40,3 +40,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/juez-espanol-dejo-fuera-a-alfredo-cristiani-en-caso-jesuita.md
