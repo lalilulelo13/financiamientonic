@@ -5,7 +5,6 @@ title: Réditos políticos tras la apertura de la masacre de la UCA
 excerpt: ''
 date: 2022-02-25T06:00:00+00:00
 hero: "/images/9440ce6a-4740-45db-8685-01ad21e2de6a_w1080_h608.webp"
-draft: true
 
 ---
 **La Universidad Centroamericana (UCA), pidió que se haga justicia, pero no para el beneficio político de algunos.**
