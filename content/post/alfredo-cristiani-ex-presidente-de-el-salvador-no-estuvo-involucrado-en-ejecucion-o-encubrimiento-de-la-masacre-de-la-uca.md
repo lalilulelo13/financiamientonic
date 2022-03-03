@@ -6,7 +6,6 @@ title: Alfredo Cristiani, ex presidente de El Salvador no estuvo involucrado en 
 excerpt: ''
 date: 2022-03-02T06:00:00+00:00
 hero: "/images/memorial-martires-uca_1907519340_12605157_660x371.jpg"
-draft: true
 
 ---
 **Como parte del proceso del los Acuerdos de Paz, durante 1992 y 1993, las Naciones Unidas realizaron y publicaron el informe de la Comisión de la Verdad sobre los crímenes y violaciones a los derechos humanos. En el informe se confirma que fueron militares los asesinos de los jesuitas y sus dos colaboradoras.**
