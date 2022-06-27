@@ -7,6 +7,7 @@ date: 2022-02-25T06:00:00+00:00
 hero: "/images/grupo-ips-great-place-to-work.jpg"
 
 ---
+
 **Por tercer año, Great Place to Work® (GPTW) certifica a** **Promerica como una organización atractiva para el talento humano regional.**
 
 Un excelente ambiente laboral, el compañerismo, la empatía, la innovación y la cultura organizacional que caracteriza a Grupo Promerica, marcan la diferencia en el mundo financiero.
