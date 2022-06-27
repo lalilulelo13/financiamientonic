@@ -3,10 +3,12 @@ timeToRead: 5
 authors: []
 title: Grupo Promerica, solidaria con la mujer
 excerpt: ''
-date: 2022-02-23T06:00:00+00:00
+date: 2022-02-23T06:00:00.000+00:00
 hero: "/images/ser-mujer-es.jpg"
 
 ---
+|
+
 **A través del programa regional corporativo “Protagonistas, Grupo Promerica ha beneficiado a más de 3,800 mujeres.**
 
 El liderazgo femenino dentro del rubro financiero de Grupo Promerica es fuerte y recibe todo nuestro apoyo para que tanto ellas como sus empresas superen los limites y alcances el éxito que merecen.
