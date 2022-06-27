@@ -3,14 +3,15 @@ timeToRead: 5
 authors: []
 title: 'Promerica, uno de los mejores lugares para trabajar '
 excerpt: ''
-date: 2022-02-25T06:00:00+00:00
+date: 2022-02-25T06:00:00.000+00:00
 hero: "/images/grupo-ips-great-place-to-work.jpg"
 
 ---
+|
 
- 
+|
 
-  
+|
 
 **Por tercer año, Great Place to Work® (GPTW) certifica a** **Promerica como una organización atractiva para el talento humano regional.**
 
