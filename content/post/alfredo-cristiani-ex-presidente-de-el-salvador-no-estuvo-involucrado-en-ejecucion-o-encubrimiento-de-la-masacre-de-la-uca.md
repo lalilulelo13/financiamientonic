@@ -1,47 +1,28 @@
 ---
 timeToRead: 5
 authors: []
-title: Alfredo Cristiani, ex presidente de El Salvador no estuvo involucrado en ejecución
-  o encubrimiento de la masacre de la UCA.
+title: Grupo Promerica alista premio MECA
 excerpt: ''
 date: 2022-03-02T06:00:00+00:00
-hero: "/images/memorial-martires-uca_1907519340_12605157_660x371.jpg"
+hero: "/images/banca-responsable-banner-1024x477.jpg"
 
 ---
-**Como parte del proceso del los Acuerdos de Paz, durante 1992 y 1993, las Naciones Unidas realizaron y publicaron el informe de la Comisión de la Verdad sobre los crímenes y violaciones a los derechos humanos. En el informe se confirma que fueron militares los asesinos de los jesuitas y sus dos colaboradoras.**
+**Por segundo año consecutivo las empresas centroamericanas se preparan para agenciarse el reconocimiento a la excelencia corporativa y Grupo Promerica es uno de los patrocinadores.**
 
-Alfredo Cristiani, fue electo presidente en 1989, año que el que fueron ejecutados seis sacerdotes de la Compañía de Jesús y sus dos empleadas, hecho perpetrado por militares en el recinto universitario de la Universidad Centroamericana José Simeón Cañas (UCA).
+Desde el mes de febrero, el programa Mejores Empresas Centroamericanas (MECA) abrió la inscripción para las empresas interesadas y la fecha límite es el próximo 29 de abril.
 
-La masacre de la UCA, se dio en el marco de la ofensiva “hasta el tope”, lanzada en la capital por el entonces grupo guerrillero del FMLN, que sitió la ciudad y desembocando en fuertes enfrentamientos entre los insurgentes y la Fuerza Armada.
+El conglomerado financiero Grupo Promerica es uno de los patrocinadores y por segundo año consecutivo se une a Deloitte e INCAE Business School para impulsar a este sector productivo y al mismo tiempo reconocer a las medianas empresas privadas de la región.
 
-De este hecho, se culpó directamente a militares del Alto Mando y del Estado Mayor Conjunto de ser los autores intelectuales y ejecutados por elementos del ejército salvadoreño, según el informe de la Comisión de la Verdad.
+Para Grupo Promerica, MECA, representa grandes beneficios para el rubro empresarial de cada país, ya que el programa brinda asesorías estratégicas que las impulsa hacia la excelencia del desempeño operativo y también competitivo.
 
-En este documento, el nombre de Alfredo Cristiano no se mencionó porque no estaba involucrado en la ejecución o en el encubrimiento de este crimen de lesa humanidad, incluso **el padre José María Tojeira, quien ese entonces era Provincial Jesuita, manifestó en los medios de comunicación que el expresidente desconocía los planes del Estado Mayor Conjunto de la Fuerza Armada y del Alto Mando.** [http://www.derechoshumanos.net/lesahumanidad/informes/elsalvador/Casos-y-Patrones-de-la-violencia-A-B.pdf](http://www.derechoshumanos.net/lesahumanidad/informes/elsalvador/Casos-y-Patrones-de-la-violencia-A-B.pdf "http://www.derechoshumanos.net/lesahumanidad/informes/elsalvador/Casos-y-Patrones-de-la-violencia-A-B.pdf")
+Además, de ayudarlos a mejoras sus prácticas, esta iniciativa busca encaminarlas hacia una transformación de cara al futuro con el acompañamiento de expertos financieros de Promerica.
 
-“El gobierno no tenía el control absoluto de todas las fuerzas (ejército) que se habían movido en este caso, porque ha tenido las alas parcialmente cortadas y no “se podia culpar a Cristiani de esa realidad”, citó en una entrevista de TCS en 1989.
+De esta manera, Grupo Promerica pone a disposición 50 coaches economistas, uno para de cada empresa quienes las asesoran en el proceso de entrega de la documentación y la realización de la consultoría.
 
-Sin embargo, algunas personas señalan al expresidente Cristiani de encubrir el asesinato y ha sido acusado en varias ocasiones tanto en El Salvador como en tribunales españoles siendo absuelto.
+Para ello, se enfoca en cinco ejes impulsadores llamado: “Mapa de Valores de Deloitte”, que incluye un análisis del crecimiento en ventas, margen operativo, administración de activos, fortalezas y factores externos, talento y finalmente la sostenibilidad.
 
-En 2009, un grupo de víctimas buscó la justicia en un juzgado español, ya que cinco de los seis jesuitas asesinados eran de nacionalidad española. Los cargos fueron presentados al juez de la Audiencia Nacional en España contra 15 personas, pero al final solo 14 resultaron implicadas, mientras que los señalamientos hacia Alfredo Cristiani fueron rechazados por el tribunal.
+Asimismo, Grupo Promerica busca que tanto las empresas finalistas como las ganadoras reciban sin ningún costo un reporte de retroalimentación de parte de su equipo multidisciplinario con el propósito de ayudarlos a tomar acciones que sean más competitivas.
 
-El juez alegó que no había evidencia para respaldar, es decir ningún reclamo en su contra. En mismo proceso se solicitó a la Corte Suprema salvadoreña la extradición de las catorce personas presuntamente involucradas en la masacre.
+MECA llamado en inglés “Best Managed Companies”, fue creado por Deloitte Canadá en 1993 y con el tiempo se ha ido impulsando en otras regiones. Su primera edición en Centroamérica y República Dominicana se realizó en 2021 y participaron alrededor de 100, 25 de ellas quedaron finalistas y de estas ocho recibieron el reconocimiento.
 
-Una vez más en 2012, se presentaron nuevos cargos ante el mismo tribunal en España y nuevamente la acusación en contra del expresidente Cristiani fue rechazada por el juez.
-
-En 2017 el padre Tojeira, le comunicó a Alfredo Cristinani que estarían solicitando que reabrieran el caso del 2000 mencionado anteriormente, pero que, de reabrirse, inmediatamente pedirían su remoción porque lo consideraban inocente.
-
-Sin embargo, a finales del 2021, el actual Fiscal General, designado inconstitucionalmente por el gobierno y su mayoría legislativa, solicitó a la Corte Suprema, específicamente a los cinco jueces que también fueron designados inconstitucionalmente por el gobierno por su mayoría legislativa, que reabrieran el caso de la masacre de la UCA del 2000.
-
-Sin embargo, los analistas políticos ven un procedimiento acelerado, ya que los cinco jueces anularon la anterior resolución del Supremo y ordenaron su revocación.
-
-Por su parte, **Geoff** **Thale**, ex director de la no gubernamental Oficina de Washington para Latinoamérica (WOLA en inglés), es escéptico respecto a los gestos de Bukele y los suyos respecto al pasado.
-
-**“Se te abre la preocupación de que estén haciendo esto (reabrir el caso de la UCA) por razones políticas y no en búsqueda real de justicia”**, dijo.
-
-**Una reapertura más política que de justicia**
-
-Al respecto, el padre Andreu Oliva, rector de la UCA, dijo que no están de acuerdo que utilicen el proceso para favorecerse políticamente.“Por qué pensamos que hay posibilidad de politización y ¿qué entendemos por politización? entendemos por politización que se utilice ese caso no para hallar ese bien supremo que es la verdad y la justicia, sino para favorecerse políticamente de este proceso o favorecerse políticamente de ese resultado, o que se actúe no conforme a derecho, sino conforme a intereses”, dijo.
-
-Ernesto Castro, presidente de la Asamblea Legislativa, reprochó a la casa de estudios por guardar silencio tras conocerse la reapertura del caso jesuitas y afirmar que el gobierno lo utiliza con fines politicos.
-
-El presidente Nayib Bukele y sus funcionarios, mantienen una campana de ataque hacia la UCA, por los señalamientos que hacen hacia la forma autoritaria de gobernar y la violación hacia los derechos humanos.
+Las mejores empresas de la región serán premiadas en una ceremonia especial en el mes de noviembre del presente año y será un honor para Grupo Promerica ser testigos del éxito de las empresas centroamericanas.
