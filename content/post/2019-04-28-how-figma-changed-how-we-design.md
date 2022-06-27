@@ -1,6 +1,6 @@
 ---
 title: Presencia regional de Grupo Promerica
-date: 2022-02-14T06:00:00.000+00:00
+date: 2022-05-05T06:00:00+00:00
 hero: "/images/grupo-promerica-mapa-_-940x350px.png"
 excerpt: ''
 timeToRead: 8
