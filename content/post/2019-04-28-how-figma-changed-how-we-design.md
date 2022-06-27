@@ -7,8 +7,6 @@ timeToRead: 8
 authors: []
 
 ---
-|
-
 **Con una trayectoria de 30 años, Grupo Promerica se consolida como líder en el mercado financiero.**
 
 Este conjunto de compañías financieras con presencia en Centroamérica y el Caribe, nació en 1991 con Banpro Grupo Promerica, en Nicaragua, como resultado del esfuerzo, disciplina y sobre todo, un espíritu inquebrantable que hoy lo hace grande.
