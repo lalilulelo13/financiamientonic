@@ -3,10 +3,12 @@ timeToRead: 5
 authors: []
 title: Grupo Promerica alista premio MECA
 excerpt: ''
-date: 2022-03-02T06:00:00+00:00
+date: 2022-03-02T06:00:00.000+00:00
 hero: "/images/banca-responsable-banner-1024x477.jpg"
 
 ---
+|
+
 **Por segundo año consecutivo las empresas centroamericanas se preparan para agenciarse el reconocimiento a la excelencia corporativa y Grupo Promerica es uno de los patrocinadores.**
 
 Desde el mes de febrero, el programa Mejores Empresas Centroamericanas (MECA) abrió la inscripción para las empresas interesadas y la fecha límite es el próximo 29 de abril.
