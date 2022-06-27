@@ -1,5 +1,5 @@
 ---
-title: Tribunal español eximió de culpa al expresidente salvadoreño Alfredo Cristiani
+title: Presencia regional de Grupo Promerica
 date: 2022-02-14T06:00:00.000+00:00
 hero: "/images/grupo-promerica-mapa-_-940x350px.png"
 excerpt: ''
