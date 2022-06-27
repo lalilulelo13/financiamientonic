@@ -1,32 +1,30 @@
 ---
 timeToRead: 5
 authors: []
-title: Réditos políticos tras la apertura de la masacre de la UCA
+title: 'Promerica, uno de los mejores lugares para trabajar '
 excerpt: ''
 date: 2022-02-25T06:00:00+00:00
-hero: "/images/9440ce6a-4740-45db-8685-01ad21e2de6a_w1080_h608.webp"
+hero: "/images/grupo-ips-great-place-to-work.jpg"
 
 ---
-**La Universidad Centroamericana (UCA), pidió que se haga justicia, pero no para el beneficio político de algunos.**
+**Por tercer año, Great Place to Work® (GPTW) certifica a** **Promerica como una organización atractiva para el talento humano regional.**
 
-Las intenciones de reabrir el caso de la masacre de los jesuitas y sus colaboradoras, dista mucho de una justicia plena y apegada al debido proceso, al menos así lo califican algunos políticos y religiosos, críticos del gobierno de Bukele.
+Un excelente ambiente laboral, el compañerismo, la empatía, la innovación y la cultura organizacional que caracteriza a Grupo Promerica, marcan la diferencia en el mundo financiero.
 
-Para el cardenal Rosa Chávez, el proceso de reapertura del caso "no fue correcto" en su ejecución, agregando que le pareció "sorprendente" y que ni la Iglesia ni la universidad fueron "consultadas" previamente. Enterarse después, fue "desagradable", manifestó.
+Promerica destaca que, uno de los pilares estratégicos es, sin lugar a dudas, el talento humano, el cual motiva a los colaboradores a desarrollar su liderazgo con los valores que por 30 años se mantienen inamovibles en la institución.
 
-La misma opinión dejó plasmada la UCA a través de un comunicado, en el cual afirmó que el caso ha recorrido "un largo, complejo y tortuoso camino" durante años y pidió que se haga justicia, pero no para el beneficio político de algunos.
+De esta manera, la certificación de _Great Place to Work® (GPTW),_ reconoce el alto nivel de confianza entre lideres y colaboradores, características que han sido evaluadas por GPTW, confirmando una vez más que Promerica es una institución con las mejores prácticas empleadas en cada uno de los nueve países donde tiene presencia.
 
-la casa de estudios junto al cardenal y a los jesuitas del país, piden al gobierno no se les “instrumentalice políticamente”, ya que las declaraciones de algunos funcionarios de gobierno, entre ellos el fiscal nombrado inconstitucionalmente, Rodolfo Delgado.
+Esa cultura ha permitido que el ambiente laboral se fortalezca dentro de esta financiera regional de tal manera que socios y colaboradores conforman un gran equipo resiliente y apasionado por los valores corporativos que los rigen y esta tercera certificación es un reto para mantenerse dentro de este modelo corporativo.
 
-El funcionario apunto que se iniciará una investigación sobre quienes fueron señalados como posibles autores intelectuales de los asesinatos: el ex presidente Alfredo Cristiani, los generales Humberto Larios, Juan Bustillo, Francisco Fuentes, Rafael Zepeda y René Ponce, y el coronel Inocente Montano, que ya fue condenado en España a 130 años.
+Para los ejecutivos, el ambiente laboral es prioritario y su objetivo es convertir el lugar de trabajo en un espacio que permita igualdad de oportunidades a fin de que haya un desarrollo profesional y personal.
 
-El arzobispo José Luis Alas Escobar, también sentó posición sobre el caso y declaró que :"En sí mismo, la reapertura del caso es algo bueno porque va en favor de la justicia. Pero, ¿se va a hacer justicia o no? Esa es la cuestión: si se ha reabierto el caso, que se haga justicia. Si no, sería un sinsentido, sería una re-victimización".
+Los ejes que _Great Place to Work®_ evaluó en Promerica para otorgar esta nueva certificación son, entre otros, ambiente laboral donde se fomente el compañerismo, la calidez, el orgullo y el compromiso, basándose también en las formas de trabajo en colaboración e innovación.
 
-La UCA también reprocha que la Sala de lo Constitucional, nombrada por la Asamblea Legislativa el 1 de mayo, que en la reapertura del proceso judicial por la masacre de seis sacerdotes jesuitas y dos salvadoreños, no se consideró la participación de las víctimas ni de la Compañía de Jesús.  
-   
- Los críticos del gobierno sostienen que al reabrir este crimen de lesa humanidad, no se busca una acción pro justicia. Además, los mismos funcionarios han declarado abiertamente que van tras su adversario político, Alfredo Cristiani, aun cuando el tribunal español ya desistió de perseguirlo.
+Además, resaltó, los procesos únicos en la inducción de nuevos colaboradores, los cuales se enfocan en hacerlos sentir bienvenidos desde el primer día, buscando siempre mayores beneficios para el talento humano que se suma a Promerica.
 
-Asimismo, el director de Idhuca y sacerdote jesuita, José María Tojeira solicitó en el 2017 el sobreseimiento del exgobernante salvadoreño, por considerar que él no tuvo conocimiento del plan que ejecutaría el Estado Mayor Conjunto y el Alto Mando de la Fuerza Armada.
+Great Place to Work® Institute dio este reconocimiento el pasado 7 de abril durante un evento virtual, donde destacó a Promerica como un empleador referente de las buenas prácticas laborales en la región.
 
-Tanto el presidente Nayib Bukele, como sus funcionarios, mantienen un ataque permanente contra la UCA, por las críticas contra la forma de gobernar, incluso acusaron a la compañía de Jesús de no tener interés en esclarecer este caso.
+Cabe destacar que Great Place to Work® Institute trabaja con más de con más de 5,500 organizaciones que representan a más de 10 millones de colaboradores.
 
-La oposición acusa a Bukele ser un oportunista y de retomar el Caso Jesuitas para desviar la atención y proteger a su aliado, un líder pandillero Eliú Melgar Diaz (Blue MS13) de la extradición. De igual manera proteger a su élite política actual.
+En los últimos 30 años, ha realizado investigaciones exhaustivas centradas en la experiencia de los colaboradores sobre lo que hace que una organización sea excelente.
