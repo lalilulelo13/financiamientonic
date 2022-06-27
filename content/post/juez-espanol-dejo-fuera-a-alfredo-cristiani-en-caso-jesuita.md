@@ -3,7 +3,7 @@ timeToRead: 5
 authors: []
 title: Grupo Promerica, solidaria con la mujer
 excerpt: ''
-date: 2022-02-23T06:00:00.000+00:00
+date: 2022-06-20T06:00:00+00:00
 hero: "/images/ser-mujer-es.jpg"
 
 ---
