@@ -7,8 +7,7 @@ timeToRead: 8
 authors: []
 
 ---
-
- 
+|
 
 **Con una trayectoria de 30 años, Grupo Promerica se consolida como líder en el mercado financiero.**
 
