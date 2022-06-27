@@ -1,6 +1,6 @@
 ---
 title: Grupo Promerica fomenta la educación financiera regional
-date: 2022-02-11T06:00:00.000+00:00
+date: 2022-06-16T06:00:00+00:00
 hero: "/images/promer-735x400.jpg"
 excerpt: ''
 secret: true
