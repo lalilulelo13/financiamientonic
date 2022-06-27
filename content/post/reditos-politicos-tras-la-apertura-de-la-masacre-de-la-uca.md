@@ -3,7 +3,7 @@ timeToRead: 5
 authors: []
 title: 'Promerica, uno de los mejores lugares para trabajar '
 excerpt: ''
-date: 2022-02-25T06:00:00.000+00:00
+date: 2022-05-11T06:00:00+00:00
 hero: "/images/grupo-ips-great-place-to-work.jpg"
 
 ---
