@@ -1,37 +1,30 @@
 ---
 title: Tribunal español eximió de culpa al expresidente salvadoreño Alfredo Cristiani
-date: 2022-02-14T06:00:00+00:00
-hero: "/images/nuevaimagen.jpg"
+date: 2022-02-14T06:00:00.000+00:00
+hero: "/images/grupo-promerica-mapa-_-940x350px.png"
 excerpt: ''
 timeToRead: 8
-authors:
-- Thiago Costa
+authors: []
 
 ---
-**En el 2008, organizaciones de defensa de los derechos humanos denunciaron a Alfredo Cristiani ante la Audiencia Nacional Española, supuestamente por encubrir a los asesinos de seis sacerdotes jesuitas.**
+**Con una trayectoria de 30 años, Grupo Promerica se consolida como líder en el mercado financiero.**
 
-El hecho ocurrió 16 de noviembre de 1989 en el recinto universitario de la Universidad Centroamericana (UCA), donde fueron asesinados el rector, Ignacio Ellacuría, Amando López, Juan Ramón Moreno, Segundo Montes e Ignacio Martín Baró, así como el salvadoreño Joaquín López y López, la cocinera Elba Julia Ramos y su hija Celina, de 16 años.
+Este conjunto de compañías financieras con presencia en Centroamérica y el Caribe, nació en 1991 con Banpro Grupo Promerica, en Nicaragua, como resultado del esfuerzo, disciplina y sobre todo, un espíritu inquebrantable que hoy lo hace grande.
 
-De esta masacre, se acusaron a miembros del Alto Mando y del Estado Mayor Conjunto. La responsabilidad recayó sobre nueves militares, por ser los autores materiales, no así a los autores intelectuales.
+Grupo Promerica, es más que una banca regional porque su génesis es impulsar el desarrollo económico regional sostenible y ser un aliado no solo de las empresas sino también de personas que buscan superar sus propias fronteras hasta lograr el éxito.
 
-Al expresidente Cristiani, comandante en jefe de las Fuerzas Armadas salvadoreñas y se le acusaba de ser "cómplice" por "encubrir" el crimen, pese a que su nombre no figuraba en el informe de la Comisión de la Verdad.
+Por ello, como grupo financiero pujante e innovador, creemos firmemente que la riqueza es el resultado de un trabajo digno y honesto, el cual transforma la vida de miles de personas que confían en una banca que se identifica con sus necesidades y que les ayuda a superar los obstáculos.
 
-[http://www.derechoshumanos.net/lesahumanidad/informes/elsalvador/Casos-y-Patrones-de-la-violencia-A-B.pdf](http://www.derechoshumanos.net/lesahumanidad/informes/elsalvador/Casos-y-Patrones-de-la-violencia-A-B.pdf "http://www.derechoshumanos.net/lesahumanidad/informes/elsalvador/Casos-y-Patrones-de-la-violencia-A-B.pdf")
+En cada uno de los nueve países donde tiene presencia, los clientes saben que cuentan con una mano amiga, especialista en los sectores productivos y que también da su aporte social a las comunidades.
 
-sin embargo, durante el juicio librado en España, se presentaron cargos contra un total de quince personas. Estos cargos fueron aceptados por el juez de la Audiencia Nacional en España solo contra catorce personas.
+De esta manera, Banpro Grupo Promérica, Promerica Costa Rica, Promerica El Salvador, Promerica República Dominicana, Promerica Ecuador, Promerica Honduras, St. Georges Bank Group Promerica en Panamá. Promerica Guatemala y St. Georges Bank Grupo Promerica en Islas Caimán, han dinamizado las estrategias de negocios generando bienestar económico de los colectivos que confían en nosotros.
 
-Los cargos atribuidos a Alfredo Cristiani fueron rechazados por el juez alegando que no había evidencia para respaldar ningún reclamo en su contra. En ese mismo proceso, el juez español solicitó a la Corte Suprema salvadoreña la extradición de las catorce personas presuntamente involucradas en la masacre, el expresidente no estaba incluído en esa lista de extradición.
+Como líderes regionales, impulsamos economías saludables, personalizando nuestros servicios para las personas, instituciones de gobierno y empresas grandes medianas o pequeñas a quienes apoyamos y asesoramos para superar sus metas de negocios.
 
-Asimismo, en el 2017, el director del Instituto de Derechos Humanos de la Universidad (IDHUCA), José María Tojeira dijo “el expresidente de la República Alfredo Cristiani no tuvo conocimiento de la masacre que se iba a perpetrar, por lo que pedirían el sobreseimiento para él”.
+Nuestros productos y servicios trascienden fronteras y ofrecemos que van desde cobranzas regionales, cuentas regionales, tesorería regional centralizada, factoring electrónico, fianzas o garantías bancarias, préstamos empresariales, líneas de crédito, tarjeta de crédito empresarial, entre otros.
 
-Con ello, tanto las autoridades salvadoreñas como la española, eximen de responsabilidad al expresidente y ante la apertura del caso, las autoridades de la UCA han solicitado al gobierno de Nayib Bukele no politizarlo.
+Nacimos para servir y hacer grandes a nuestros clientes, esto gracias a nuestros colaboradores, ejecutivos, clientes, accionistas y directores comprometidos con el progreso regional.
 
-**Más oficiales involucrados**
+El reconocimiento que hoy tenemos es fruto de tres décadas de arduo trabajo, el cual se ajusta al cambio y demanda del mercado, lo que nos ha llevado a reinventar estrategias para continuar apoyando las actividades de cada país y ser parte de esas gratificantes historias de éxitos de nuestros clientes.
 
-Para las autoridades universitarias, habían más involucrados en el asesinato de los clérigos españoles y finalmente las investigaciones revelaron los nombres de cinco militares.
-
-En enero de 2016, el juez de la Audiencia Nacional española Eloy Velasco envió una nueva petición a Interpol para la captura de los militares salvadoreños retirados.
-
-Un mes después, la policía salvadoreña informó de la captura de cuatro oficiales, entre ellos Guillermo Alfredo Benavides Moreno, Antonio Ramiro Ávalos Vargas, Ángel Pérez Vásquez y Tomás Zárpate Castillo.
-
-En el 2020 , la Corte española condenó en al exviceministro de Seguridad Pública (1989-1992), Inocente Orlando como responsable, en concepto de autor, por cinco delitos de asesinato terrorista”, [https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-133-anos-de-carcel-al-exviceministro-de-Seguridad-Publica-del-Ejercito-de-El-Salvador-por-el-asesinato-de-cinco-jesuitas-en-1989?s=08](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-133-anos-de-carcel-al-exviceministro-de-Seguridad-Publica-del-Ejercito-de-El-Salvador-por-el-asesinato-de-cinco-jesuitas-en-1989?s=08 "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-133-anos-de-carcel-al-exviceministro-de-Seguridad-Publica-del-Ejercito-de-El-Salvador-por-el-asesinato-de-cinco-jesuitas-en-1989?s=08")
+La responsabilidad es grande dentro del sistema financiero, donde los principios son un pilar inamovible para Grupo Promerica. Somos respetuosos de nuestros reguladores y otras autoridades que certifican nuestra solidez y transparencia en el manejo de los activos que manejamos.
