@@ -8,6 +8,8 @@ timeToRead: 8
 authors: []
 
 ---
+|
+
 **La Semana de la Educación Financiera es una de las actividades de mayor énfasis del Grupo Promerica. Su objetivo es desarrollar buenas prácticas en pro del bienestar económico de las comunidades de los nueve países donde**
 
 Las finanzas saludables dependen mucho de las decisiones que se toman en la vida y esta tiene consecuencias, algunas veces buenas, otros con resultados poco alentadores.
