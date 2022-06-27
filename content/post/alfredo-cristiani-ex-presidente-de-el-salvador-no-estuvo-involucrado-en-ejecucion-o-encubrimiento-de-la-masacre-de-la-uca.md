@@ -3,7 +3,7 @@ timeToRead: 5
 authors: []
 title: Grupo Promerica alista premio MECA
 excerpt: ''
-date: 2022-03-02T06:00:00.000+00:00
+date: 2022-06-01T06:00:00+00:00
 hero: "/images/banca-responsable-banner-1024x477.jpg"
 
 ---
