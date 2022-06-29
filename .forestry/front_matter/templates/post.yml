@@ -40,7 +40,3 @@ fields:
   type: tag_list
   default: []
   label: Authors
-pages:
-- content/post/alfredo-cristiani-ex-presidente-de-el-salvador-no-estuvo-involucrado-en-ejecucion-o-encubrimiento-de-la-masacre-de-la-uca.md
-- content/post/juez-espanol-dejo-fuera-a-alfredo-cristiani-en-caso-jesuita.md
-- content/post/reditos-politicos-tras-la-apertura-de-la-masacre-de-la-uca.md
