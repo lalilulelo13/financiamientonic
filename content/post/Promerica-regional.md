@@ -1,30 +1,46 @@
 ---
-title: Presencia regional de Grupo Promerica
-date: 2022-05-05T06:00:00+00:00
-hero: "/images/grupo-promerica-mapa-_-940x350px.png"
+title: Grupo Promerica invierte en la sostenibilidad
+date: 2022-06-27T06:00:00+00:00
+hero: "/images/credito-sostenible-banca-verde-637x416.jpg"
 excerpt: ''
 timeToRead: 8
 authors: []
 
 ---
-**Con una trayectoria de 30 años, Grupo Promerica se consolida como líder en el mercado financiero.**
+**Los créditos sostenibles o líneas verdes contribuyen a mitigar el impacto ambiental y también reducir las brechas sociales.**
 
-Este conjunto de compañías financieras con presencia en Centroamérica y el Caribe, nació en 1991 con Banpro Grupo Promerica, en Nicaragua, como resultado del esfuerzo, disciplina y sobre todo, un espíritu inquebrantable que hoy lo hace grande.
+Destinar recursos a proyectos de eficiencia energética y producción de energías renovables, la reducción de impactos ambientales y a mitigar las emisiones de CO2, viviendas sostenibles, entre otros, son parte del programa de fondeo de Grupo Promerica.
 
-Grupo Promerica, es más que una banca regional porque su génesis es impulsar el desarrollo económico regional sostenible y ser un aliado no solo de las empresas sino también de personas que buscan superar sus propias fronteras hasta lograr el éxito.
+Con esta iniciativa, la financiera busca dirigir una cartera de productos verdes a empresas que tienen como objetivo mitigar el daño ambiental y al mismo tiempo, apoyar los acuerdos suscritos en la Alianza para el Cambio Climático Global.
 
-Por ello, como grupo financiero pujante e innovador, creemos firmemente que la riqueza es el resultado de un trabajo digno y honesto, el cual transforma la vida de miles de personas que confían en una banca que se identifica con sus necesidades y que les ayuda a superar los obstáculos.
+El fondeo de financiamiento es parte de la estrategia de sostenibilidad, un pilar fundamental para Grupo Promerica y está disponible en cada uno de los países donde actualmente tienen presencia.
 
-En cada uno de los nueve países donde tiene presencia, los clientes saben que cuentan con una mano amiga, especialista en los sectores productivos y que también da su aporte social a las comunidades.
+De esta manera, el corporativo bancario enfoca sus esfuerzos pro ambientalistas en acercar recursos económicos al sector productivo y personas naturales a través del financiamiento verde.
 
-De esta manera, Banpro Grupo Promérica, Promerica Costa Rica, Promerica El Salvador, Promerica República Dominicana, Promerica Ecuador, Promerica Honduras, St. Georges Bank Group Promerica en Panamá. Promerica Guatemala y St. Georges Bank Grupo Promerica en Islas Caimán, han dinamizado las estrategias de negocios generando bienestar económico de los colectivos que confían en nosotros.
+El apoyo e involucramiento en iniciativas como estas son importantes para Grupo Promerica, ya que permite la reducción de la huella de carbono en el caso de la generación de energías renovables limpias y el transporte de bajo impacto ambiental.
 
-Como líderes regionales, impulsamos economías saludables, personalizando nuestros servicios para las personas, instituciones de gobierno y empresas grandes medianas o pequeñas a quienes apoyamos y asesoramos para superar sus metas de negocios.
+El fondeo también incluye a proyectos de inversión en tecnologías que promueven
 
-Nuestros productos y servicios trascienden fronteras y ofrecemos que van desde cobranzas regionales, cuentas regionales, tesorería regional centralizada, factoring electrónico, fianzas o garantías bancarias, préstamos empresariales, líneas de crédito, tarjeta de crédito empresarial, entre otros.
+eficiencia energética (paneles solares y aires acondicionados, entre otros). Así como también activos sostenibles que contribuyan con la reducción del consumo de recursos naturales o disminución de emisiones de CO2, como calderas o biodigestores
 
-Nacimos para servir y hacer grandes a nuestros clientes, esto gracias a nuestros colaboradores, ejecutivos, clientes, accionistas y directores comprometidos con el progreso regional.
+Los financiamientos son hasta el 100% de la inversión, con tasas de
 
-El reconocimiento que hoy tenemos es fruto de tres décadas de arduo trabajo, el cual se ajusta al cambio y demanda del mercado, lo que nos ha llevado a reinventar estrategias para continuar apoyando las actividades de cada país y ser parte de esas gratificantes historias de éxitos de nuestros clientes.
+Interés diferenciadas a fin de incentivar al mercado regional con el ofrecimiento de créditos que generen un balance entre la equidad social, viabilidad ambiental y desarrollo económico sostenible.
 
-La responsabilidad es grande dentro del sistema financiero, donde los principios son un pilar inamovible para Grupo Promerica. Somos respetuosos de nuestros reguladores y otras autoridades que certifican nuestra solidez y transparencia en el manejo de los activos que manejamos.
+Representantes de Grupo Promerica sostienen que están alineados a ser una banca responsable y ser un referente regional en líderes sostenibilidad, por ello acercan soluciones financieras eficientes que aporten al cuidado del planeta.
+
+**Activación verde**
+
+Una de las regionales Promerica que activo el financiamiento verde fue Produbanco, en Nicaragua. Aquí la institución financiera está apoyando a empresas constructoras por medio de asesorías para gestionar la certificación de construcción sostenible como: EDGE, LEED o BREEAM.
+
+En Guatemala, los créditos verdes apoyan los proyectos de iluminación LED, sustitución de aires acondicionados o climatización, generación de energía para autoconsumo (paneles solares), sustitución de maquinaria, equipo, motores y calderas, calentadores solares y cualquier otra inversión que aporte un 20% de ahorro global como mínimo.
+
+Costa Rica también está comprometida con la sostenibilidad, conforme a los 17 Objetivos para el Desarrollo Sostenible (ODS), planteados por las Naciones Unidas en 2015.
+
+El financiamiento del portafolio verde está orientado a activos(PYMES, créditos verdes, tecnología eficiente, eco vehículos,,agribusiness, hipotecas, banca de desarrollo y los pasivos se enfocan en cuentas verdes,CD verdes, instituciones y fondos para el desarrollo, bonos sostenibles y banca de desarrollo
+
+Además, para dar el ejemplo, todas las sucursales en Costa Rica cuentan con paneles solares que genera energía limpia y dispones de puntos de carga para vehículos electrónicos.
+
+para las empresas o proyectos verdes como, por ejemplo. Mitigación o adaptación al cambio climático, eficiencia energética, energía renovable, Pymes lideradas por mujeres que tengan un enfoque sostenible.
+
+De esta manera cada uno de los países donde tiene presencia Grupo Promerica siguen los lineamientos verdes para ser entes multiplicadores de una cultura sostenible y armoniosa con el medio ambiente. En diciembre de 2015, Promerica anunció la alianza con el Fondo de la Alianza para el Cambio Climático Global.
