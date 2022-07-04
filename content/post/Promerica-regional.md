@@ -7,6 +7,8 @@ timeToRead: 8
 authors: []
 
 ---
+|
+
 **Los créditos sostenibles o líneas verdes contribuyen a mitigar el impacto ambiental y también reducir las brechas sociales.**
 
 Destinar recursos a proyectos de eficiencia energética y producción de energías renovables, la reducción de impactos ambientales y a mitigar las emisiones de CO2, viviendas sostenibles, entre otros, son parte del programa de fondeo de Grupo Promerica.
