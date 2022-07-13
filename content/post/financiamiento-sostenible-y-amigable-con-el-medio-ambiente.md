@@ -5,7 +5,6 @@ title: Financiamiento sostenible y amigable con el medio ambiente.
 excerpt: ''
 date: 2022-07-05T06:00:00+00:00
 hero: "/images/china-s-green-finance-market-policy-support-investment-opportunities.jpg"
-draft: true
 
 ---
 |
