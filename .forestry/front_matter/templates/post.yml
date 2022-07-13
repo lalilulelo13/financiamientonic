@@ -41,5 +41,6 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/financiamiento-sostenible-y-amigable-con-el-medio-ambiente-1.md
 - content/post/financiamiento-sostenible-y-amigable-con-el-medio-ambiente.md
 - content/post/grupo-promerica-confirmo-su-compromiso-en-la-semana-de-la-sostenibilidad-2022-de-bid-invest.md
