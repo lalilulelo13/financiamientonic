@@ -40,3 +40,5 @@ fields:
   type: tag_list
   default: []
   label: Authors
+pages:
+- content/post/financiamiento-sostenible-y-amigable-con-el-medio-ambiente.md
