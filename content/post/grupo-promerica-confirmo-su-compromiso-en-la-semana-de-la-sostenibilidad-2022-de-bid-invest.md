@@ -6,7 +6,6 @@ title: Grupo Promerica confirmó su compromiso en la semana de la Sostenibilidad
 excerpt: ''
 date: 2022-07-08T06:00:00+00:00
 hero: "/images/banner-web-sw22-apr-11-spa-png.webp"
-draft: true
 
 ---
 |
