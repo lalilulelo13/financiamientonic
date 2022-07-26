@@ -5,7 +5,6 @@ title: " El camino verde de Grupo Promerica"
 excerpt: ''
 date: 2022-07-25T06:00:00+00:00
 hero: "/images/d9fc17f32b375e9eeed63a6c2d3200a4_l.jpg"
-draft: true
 
 ---
 **La institución financiera impulsa el financiamiento de proyectos habitacionales innovadores y sostenibles en la región.**

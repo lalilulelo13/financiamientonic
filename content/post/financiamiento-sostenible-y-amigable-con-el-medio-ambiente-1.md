@@ -5,7 +5,6 @@ title: Financiamiento sostenible y amigable con el medio ambiente
 excerpt: ''
 date: 2022-07-12T06:00:00+00:00
 hero: "/images/promerica-firma-onu.jpg"
-draft: true
 
 ---
 |
