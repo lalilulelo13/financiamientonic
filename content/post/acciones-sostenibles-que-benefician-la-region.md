@@ -1,5 +1,5 @@
 ---
-timeToRead: '08'
+timeToRead: 8
 authors: []
 title: 'Acciones sostenibles que benefician la región '
 excerpt: ''
