@@ -5,7 +5,6 @@ title: 'Acciones sostenibles que benefician la región '
 excerpt: ''
 date: 2022-08-09T06:00:00+00:00
 hero: "/images/4-financiamiento-sostenible.jpg"
-draft: true
 
 ---
 **La agenda Grupo Promerica incluye, además de impulsar el crecimiento económico de los países donde opera, estrategias integrales para fortalecer la sostenibilidad y responsabilidad social empresarial.**
