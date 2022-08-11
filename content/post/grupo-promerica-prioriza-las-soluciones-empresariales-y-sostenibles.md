@@ -5,7 +5,6 @@ title: Grupo Promerica prioriza las soluciones empresariales y sostenibles
 excerpt: ''
 date: 2022-08-03T06:00:00+00:00
 hero: "/images/energia_p15_recursos_verdes-png_554688468.webp"
-draft: true
 
 ---
 **Fortalecer las relaciones comerciales es una prioridad para la institución financiera regional, la cual lidera un amplio portafolio de los créditos verdes.**
