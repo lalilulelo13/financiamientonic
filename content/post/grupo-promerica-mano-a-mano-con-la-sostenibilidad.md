@@ -5,7 +5,6 @@ title: Grupo Promerica mano a mano con la sostenibilidad
 excerpt: ''
 date: 2022-08-15T06:00:00+00:00
 hero: "/images/istock-1061630236-e1633955819808.jpg"
-draft: true
 
 ---
 **El conglomerado financiero regional se enfoca en dejar una huella verde en cada uno de los 9 países donde opera.**
