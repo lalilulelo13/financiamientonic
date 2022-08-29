@@ -5,7 +5,6 @@ title: "“Las líneas verdes” contribuyen a la biodiversidad de la región "
 excerpt: ''
 date: 2022-08-17T06:00:00+00:00
 hero: "/images/istockphoto-1360783154-170667a.jpg"
-draft: true
 
 ---
 **Grupo Promerica apoya el financiamiento sostenible a clientes comprometidos con el medioambiente.**
