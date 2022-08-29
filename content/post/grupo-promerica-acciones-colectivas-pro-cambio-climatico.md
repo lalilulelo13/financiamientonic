@@ -5,7 +5,6 @@ title: 'Grupo Promerica: Acciones colectivas pro cambio climático.'
 excerpt: ''
 date: 2022-08-24T06:00:00+00:00
 hero: "/images/gron-ekonomi.jpg"
-draft: true
 
 ---
 **La sostenibilidad es un esfuerzo conjunto y como banco signatario impulsa la neutralidad climática a través de sus diferentes servicios financieros.**
