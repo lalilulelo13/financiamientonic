@@ -5,7 +5,6 @@ title: Economía ecológica a través de la sostenibilidad
 excerpt: ''
 date: 2022-08-22T06:00:00+00:00
 hero: "/images/sustainable-economic-growth.jpeg"
-draft: true
 
 ---
 **Grupo Promerica promueve la neutralidad climática con servicios financieros de economía ecológica.**
