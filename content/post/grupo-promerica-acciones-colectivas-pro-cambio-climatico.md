@@ -3,7 +3,7 @@ timeToRead: 8
 authors: []
 title: 'Grupo Promerica: Acciones colectivas pro cambio climático.'
 excerpt: ''
-date: 
+date: 2022-08-24T06:00:00+00:00
 hero: "/images/gron-ekonomi.jpg"
 draft: true
 
