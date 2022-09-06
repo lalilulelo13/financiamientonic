@@ -5,7 +5,6 @@ title: 'Grupo Promerica: Verde, social y sostenible'
 excerpt: ''
 date: 2022-09-05T06:00:00+00:00
 hero: "/images/greenwashing-1194x585-1.webp"
-draft: true
 
 ---
 **El** [**cambio climático**](https://www.santander.com/es/stories/cambio-climatico) **es uno de los grandes desafíos que enfrentan las sociedades. Mitigar los efectos sin afectar los ecosistemas es un compromiso de la banca sostenible.**
