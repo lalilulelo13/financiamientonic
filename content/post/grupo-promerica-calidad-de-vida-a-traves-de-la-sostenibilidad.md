@@ -5,7 +5,6 @@ title: 'Grupo Promerica: Calidad de vida a través de la sostenibilidad'
 excerpt: ''
 date: 2022-08-30T06:00:00+00:00
 hero: "/images/imagedetail_3aa6e018-c9bf-45a8-ab82-e70102e31c43_large.jfif"
-draft: true
 
 ---
 **La alineación de los recursos financieros les permite contribuir en la creación de un mundo más sostenible y responsable con las generaciones futura.**
