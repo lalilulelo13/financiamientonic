@@ -5,7 +5,6 @@ title: 'Grupo Promerica: competitividad y sostenibilidad'
 excerpt: ''
 date: 2022-09-04T06:00:00+00:00
 hero: "/images/download.jfif"
-draft: true
 
 ---
 **Ambos componentes son aliados estratégicos para apoyar las oportunidades de negocios que estén comprometidos con los objetivos sostenibles de Grupo Promerica.**
