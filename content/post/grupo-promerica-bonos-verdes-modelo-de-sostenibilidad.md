@@ -5,7 +5,6 @@ title: 'Grupo Promerica: Bonos verdes, modelo de sostenibilidad'
 excerpt: ''
 date: 2022-08-29T06:00:00+00:00
 hero: "/images/greenbonds.png"
-draft: true
 
 ---
 **Las líneas de créditos verdes se perfilan como una opción para el fondeo de proyectos sostenibles.**
