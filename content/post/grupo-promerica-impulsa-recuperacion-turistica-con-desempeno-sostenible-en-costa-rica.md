@@ -6,7 +6,6 @@ title: Grupo Promerica impulsa recuperación turística con desempeño sostenibl
 excerpt: ''
 date: 2022-09-18T06:00:00+00:00
 hero: "/images/whatsapp-image-2021-05-21-at-10-06-51-am.jpeg"
-draft: true
 
 ---
 **Este conglomerado bancario financiero apoya a las empresas a recuperar los ingresos, optimizar costos y asegurar un desempeño económico sostenible para adaptarse a las nuevas condiciones del mercado**.
