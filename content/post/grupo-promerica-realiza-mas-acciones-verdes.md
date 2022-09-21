@@ -5,7 +5,6 @@ title: Grupo Promerica realiza más acciones verdes
 excerpt: ''
 date: 2022-09-20T06:00:00+00:00
 hero: "/images/lic-oscar-mantilla-vicegerente-de-credito-de-consumo-e-hipotecario.jpg"
-draft: true
 
 ---
 **Banpro realizó la jornada de reforestación “Sembrar es vida” en Ciudad Doral, en Nicaragua.**
