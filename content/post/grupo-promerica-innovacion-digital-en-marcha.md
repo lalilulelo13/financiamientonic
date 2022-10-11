@@ -5,7 +5,6 @@ title: 'Grupo Promerica: Innovación digital en marcha'
 excerpt: ''
 date: 2022-10-04T06:00:00+00:00
 hero: "/images/960x0.jpg"
-draft: true
 
 ---
 **La nueva estrategia es el “depósito a plazo digital, una opción fácil, rápida y segura de maximizar el dinero.**
