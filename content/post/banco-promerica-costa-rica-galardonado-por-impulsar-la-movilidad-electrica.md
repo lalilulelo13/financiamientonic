@@ -5,7 +5,6 @@ title: " Banco Promerica Costa Rica, galardonado por impulsar la movilidad eléc
 excerpt: ''
 date: 2022-10-10T06:00:00+00:00
 hero: "/images/foto-promerica.JPG"
-draft: true
 
 ---
 **La institutión bancaria es la primera en recibir este premio internacional Global Climate Partnership Award 2022 (GCPF)a nivel Latinoamericano**
