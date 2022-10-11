@@ -3,7 +3,7 @@ timeToRead: 7
 authors: []
 title: 'Grupo Promerica: Banca digital, verde y sostenible'
 excerpt: ''
-date: 
+date: 2022-10-06T06:00:00+00:00
 hero: "/images/go-green-with-digital-banking-this-world-environment-day-m.jpg"
 draft: true
 
