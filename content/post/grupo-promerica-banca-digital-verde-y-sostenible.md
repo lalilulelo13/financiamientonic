@@ -5,7 +5,6 @@ title: 'Grupo Promerica: Banca digital, verde y sostenible'
 excerpt: ''
 date: 2022-10-06T06:00:00+00:00
 hero: "/images/go-green-with-digital-banking-this-world-environment-day-m.jpg"
-draft: true
 
 ---
 **Los desafíos ambientales exigen acciones concretas e inmediatas por parte de toda la sociedad para ayudar a combatir el deterioro del planeta. Por ello,** [**Grupo**](https://www.computerweekly.com/es/cronica/Desafios-y-novedades-de-las-fintech-para-el-2022?_gl=1*2c06gc*_ga*MTE5MzExODEwMy4xNjQ2OTM4OTAz*_ga_TQKE4GS5P9*MTY1NDg4NTI3Ni41ODIuMS4xNjU0ODg1MjgwLjA.&_ga=2.178911587.653912082.1654532424-1193118103.1646938903) **Promerica, tomó la iniciativa para contribuir al desarrollo desde su actividad de financiera.**
