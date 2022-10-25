@@ -5,7 +5,6 @@ title: 'Grupo Promerica: Transformando las finanzas en la región'
 excerpt: ''
 date: 2022-10-17T06:00:00+00:00
 hero: "/images/wp-1451169169483.webp"
-draft: true
 
 ---
 **La financiera regional alinea su estrategia comercial con los Objetivos de Desarrollo Sostenible (ODS).**
