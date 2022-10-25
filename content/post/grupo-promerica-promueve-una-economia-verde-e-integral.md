@@ -5,7 +5,6 @@ title: Grupo Promerica promueve una economía verde e integral.
 excerpt: ''
 date: 2022-10-18T06:00:00+00:00
 hero: "/images/reduce-energy-innovation.webp"
-draft: true
 
 ---
 **La institución bancaria es pionera en el financiamiento sostenible en la región.**
