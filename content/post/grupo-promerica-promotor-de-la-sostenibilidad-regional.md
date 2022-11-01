@@ -5,7 +5,6 @@ title: Grupo Promerica promotor de la sostenibilidad regional
 excerpt: ''
 date: 
 hero: "/images/0-gfl-noticia-generico-generico-2022-08-01t103224-597.jpg"
-draft: true
 
 ---
 **Para alcanzar las metas contempladas en los Objetivos de Desarrollo Sostenible es necesario impulsar soluciones integrales y reales en el sector financiero.**
