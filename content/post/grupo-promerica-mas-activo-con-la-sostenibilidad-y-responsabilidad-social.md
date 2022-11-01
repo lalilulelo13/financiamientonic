@@ -5,7 +5,6 @@ title: Grupo Promerica más activo con la sostenibilidad y responsabilidad socia
 excerpt: ''
 date: 2022-10-24T06:00:00+00:00
 hero: "/images/bono-sostenible.png"
-draft: true
 
 ---
 **La sostenibilidad y la responsabilidad social empresarial van de la mano hacia un mismo objetivo: Cuidar el planeta con acciones tangibles.**
