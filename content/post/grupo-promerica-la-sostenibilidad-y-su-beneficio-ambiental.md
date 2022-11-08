@@ -5,7 +5,6 @@ title: 'Grupo Promerica: La sostenibilidad y su beneficio ambiental'
 excerpt: ''
 date: 2022-11-01T06:00:00+00:00
 hero: "/images/green-economy-jar-with-money-and-growing-plant-1-1024x683.jpg"
-draft: true
 
 ---
 **Impulsar una cultura de financiación verde para caminar hacia una economía y desarrollo sostenible es un reto que el conglomerado financiero regional asume.**
