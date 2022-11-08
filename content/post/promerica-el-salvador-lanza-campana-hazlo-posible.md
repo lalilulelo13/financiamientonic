@@ -5,7 +5,6 @@ title: Promerica El Salvador lanza campaña “Hazlo Posible”.
 excerpt: ''
 date: 2022-11-02T06:00:00+00:00
 hero: "/images/banner-c-hipotecario-2022-01.jpg"
-draft: true
 
 ---
 **El objetivo de es ofrecer soluciones financieras que les permita a los clientes consolidar saldos de otros bancos del país.**
