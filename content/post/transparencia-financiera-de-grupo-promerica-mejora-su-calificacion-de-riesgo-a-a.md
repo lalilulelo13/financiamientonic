@@ -6,7 +6,6 @@ title: 'Transparencia financiera de Grupo Promerica mejora su calificación de r
 excerpt: ''
 date: 2022-11-09T06:00:00+00:00
 hero: "/images/1-5.jpg"
-draft: true
 
 ---
 **La calificación de riesgo de “DOA-” a “DOA” con perspectiva estable fue otorgada por Pacific Credit Rating (PCR), empresa especializada en Ratings Financieros y con cobertura internacional.**
