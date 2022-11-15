@@ -5,7 +5,6 @@ title: 18 empresas entre las mejores de Centro América
 excerpt: ''
 date: 2022-11-08T06:00:00+00:00
 hero: "/images/empresas-trabajo_2891763_20221108122852.jpg"
-draft: true
 
 ---
 **Grupo Promerica, Deloitte e INCAEE eligieron a los ganadores de la segunda edición de Mejores Empresas Centroamericanas (MECA) 2022.**
