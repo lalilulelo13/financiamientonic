@@ -41,6 +41,7 @@ fields:
   default: []
   label: Authors
 pages:
+- content/post/18-empresas-entre-las-mejores-de-centro-america.md
 - content/post/acciones-sostenibles-que-benefician-la-region.md
 - content/post/banco-promerica-costa-rica-galardonado-por-impulsar-la-movilidad-electrica.md
 - content/post/economia-ecologica-a-traves-de-la-sostenibilidad.md
