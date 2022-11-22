@@ -5,7 +5,6 @@ title: Grupo Promerica apoya la agricultura sostenible.
 excerpt: ''
 date: 2022-11-14T06:00:00+00:00
 hero: "/images/solucionesproblemasambientales-agriculturaresponsable-b.jpg"
-draft: true
 
 ---
 **La banca responsable incluye en su cartera de servicios verdes a este sector para impulsar una agricultura próspera, sostenible e inclusiva.**
