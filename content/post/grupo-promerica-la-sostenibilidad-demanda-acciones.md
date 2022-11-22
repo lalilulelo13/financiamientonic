@@ -5,7 +5,6 @@ title: 'Grupo Promerica: La sostenibilidad demanda acciones'
 excerpt: ''
 date: 2022-11-15T06:00:00+00:00
 hero: "/images/cual-es-el-futuro-de-la-agricultura-sustentable.jpg"
-draft: true
 
 ---
 **El desequilibrio ambiental impacta la vida de las personas y también afecta las economías del mundo. Actuar es responsabilidad de todos.**
