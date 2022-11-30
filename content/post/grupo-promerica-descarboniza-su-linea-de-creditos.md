@@ -5,7 +5,6 @@ title: Grupo Promerica descarboniza su línea de créditos
 excerpt: ''
 date: 2022-11-21T06:00:00+00:00
 hero: "/images/geralt-pixabay.webp"
-draft: true
 
 ---
 **Estos compromisos internacionales del más alto nivel en materia de sostenibilidad son adoptados por las instituciones miembros de este corporativo financiero regional.**
