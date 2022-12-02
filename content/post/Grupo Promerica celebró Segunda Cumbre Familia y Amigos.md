@@ -5,7 +5,6 @@ title: ''
 excerpt: Grupo Promerica celebró Segunda Cumbre Familia y Amigos
 date: 2022-11-30T06:00:00+00:00
 hero: "/images/0-3.png"
-draft: true
 
 ---
 **La actividad contó con la participación de expertos conferencistas y panelistas que expusieron las perspectivas globales, regionales y oportunidades de negocio para el próximo 2023.**
