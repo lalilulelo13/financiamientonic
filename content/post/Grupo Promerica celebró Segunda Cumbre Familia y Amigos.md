@@ -1,7 +1,7 @@
 ---
 timeToRead: 8
 authors: []
-title: ''
+title: Grupo Promerica celebró Segunda Cumbre Familia y Amigos
 excerpt: Grupo Promerica celebró Segunda Cumbre Familia y Amigos
 date: 2022-11-30T06:00:00+00:00
 hero: "/images/0-3.png"
