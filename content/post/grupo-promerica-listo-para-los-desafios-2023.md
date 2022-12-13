@@ -5,7 +5,6 @@ title: Grupo Promerica, listo para los desafíos 2023
 excerpt: ''
 date: 2022-12-05T06:00:00+00:00
 hero: "/images/grupo-promerica.jpg"
-draft: true
 
 ---
 **“El futuro no trae manual y no podemos esconderlo bajo la alfombra, por eso sentimos la necesidad de ser proactivos y ser parte de esta alianza”: Ramiro Ortiz Gurdián.**
