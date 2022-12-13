@@ -6,7 +6,6 @@ title: Banpro obtiene certificación “EDGE Advance” y se convierte en el pri
 excerpt: ''
 date: 2022-12-06T06:00:00+00:00
 hero: "/images/edge_0.png"
-draft: true
 
 ---
 **La financiera miembro del Grupo Promerica ha logrado un rango de ahorro de 48% a 89% en la facturación energética en sus instalaciones.**
