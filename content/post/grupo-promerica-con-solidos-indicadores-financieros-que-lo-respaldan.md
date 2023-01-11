@@ -5,7 +5,6 @@ title: Grupo Promerica con sólidos indicadores financieros que lo respaldan
 excerpt: ''
 date: 2023-01-09T06:00:00+00:00
 hero: "/images/banpro_managua.jpg"
-draft: true
 
 ---
 **La corporación bancaria mantiene un fuerte posicionamiento en 10 países de la región y enfrentar con fortaleza los retos que vienen con el 2023.**
