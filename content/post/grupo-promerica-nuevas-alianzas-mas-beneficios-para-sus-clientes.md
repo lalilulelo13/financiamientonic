@@ -5,7 +5,6 @@ title: Grupo Promerica, nuevas alianzas, más beneficios para sus clientes
 excerpt: ''
 date: 2023-01-10T06:00:00+00:00
 hero: "/images/l.jpg"
-draft: true
 
 ---
 **Banco Promerica, República Dominicana y** [**AFP Crecer**](https://www.afpcrecer.com.do/) **y el** [**Banco Promerica**](https://www.elcaribe.com.do/gente/sociales/banco-promerica-inaugura-oficinas-corporativas/) **firman un acuerdo de colaboración con el propósito de desarrollar acciones conjuntas que aportar valor para sus afiliados**.
