@@ -6,7 +6,6 @@ title: Produbanco comprometido con la reducir las emisiones de carbono de su por
 excerpt: ''
 date: 2023-01-17T06:00:00+00:00
 hero: "/images/consejo-europeo-aprueba-objetivo-reduccion-emisiones-55-2030.png"
-draft: true
 
 ---
 **Produbanco, institución financiera del Grupo Promerica se enfoca en las metas de descarbonización intermedia de 5 sectores basados en objetivos de intensidad monetaria de carbono.**
