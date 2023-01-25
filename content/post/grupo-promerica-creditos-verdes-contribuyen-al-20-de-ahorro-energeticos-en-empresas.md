@@ -6,7 +6,6 @@ title: 'Grupo Promerica: Créditos verdes contribuyen al 20% de ahorro energéti
 excerpt: ''
 date: 2023-01-16T06:00:00+00:00
 hero: "/images/shutterstock_1056264089.jpg"
-draft: true
 
 ---
 **Banco Promerica Costa Rica impulsa la sostenibilidad a través del financiamiento de créditos verdes para el sector empresarial, los cuales reportan beneficios en el consumo de recursos como electricidad y agua.**
