@@ -5,7 +5,6 @@ title: Grupo Promerica con sólidos indicadores financieros
 excerpt: ''
 date: 2023-01-30T06:00:00+00:00
 hero: "/images/670x419-principales-indicadores-financieros-y-de-gestion-1.webp"
-draft: true
 
 ---
 **Actualmente, el conglomerado financiero es reconocido por calificadoras de riesgo internacionales como una de las instituciones bancarias más sólidas y grandes de la región**.
