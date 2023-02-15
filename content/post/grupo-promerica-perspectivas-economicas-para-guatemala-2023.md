@@ -5,7 +5,6 @@ title: 'Grupo Promerica: Perspectivas Económicas para Guatemala 2023'
 excerpt: ''
 date: 2023-02-06T06:00:00+00:00
 hero: "/images/calle-del-arco.jpg"
-draft: true
 
 ---
 **Promerica Guatemala realizó un foro virtual con sus aliados estratégicos con el propósito de brindarles una información actualizada sobre las oportunidades y ventajas competitivas para afrontar la tendencia económica mundial.**
