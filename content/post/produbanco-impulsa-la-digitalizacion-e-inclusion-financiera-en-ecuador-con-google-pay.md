@@ -9,15 +9,15 @@ hero: "/images/sucursales.webp"
 draft: true
 
 ---
-# Produbanco, miembro de Grupo Promerica, se convierte en la primera institución bancaria ecuatoriana en emplear esta plataforma para realizar pagos online desde dispositivos móviles.
+##### Produbanco, miembro de Grupo Promerica, se convierte en la primera institución bancaria ecuatoriana en emplear esta plataforma para realizar pagos online desde dispositivos móviles.
 
-# La digitalización de la economía y la inclusión financiera permite que más personas hagan sus transacciones de manera ágil, segura y sin la necesidad de trasladarse hasta una sucursal bancaria.
+###### La digitalización de la economía y la inclusión financiera permite que más personas hagan sus transacciones de manera ágil, segura y sin la necesidad de trasladarse hasta una sucursal bancaria.
 
-# Esta es una opción para que los clientes de Produbanco, Ecuador, disponga de una innovadora herramienta tecnológica para realizar pagos online desde “Google Pay”.
+###### Esta es una opción para que los clientes de Produbanco, Ecuador, disponga de una innovadora herramienta tecnológica para realizar pagos online desde “Google Pay”.
 
-# La noticia ha sido calificada de “excelente” por los tarjetahabientes de esta institución financiera, la cual cumple con los estándares de calidad y excelencia, convirtiéndolo en el primer banco del país en utilizarla.
+###### La noticia ha sido calificada de “excelente” por los tarjetahabientes de esta institución financiera, la cual cumple con los estándares de calidad y excelencia, convirtiéndolo en el primer banco del país en utilizarla.
 
-# De esta manera, los clientes de Produbanco pueden agregar sus tarjetas Visa y MasterCard Produbanco y, de una forma rápida y sencilla, realizar pagos sin contacto, con la privacidad y seguridad que ofrece Google Pay.
+###### De esta manera, los clientes de Produbanco pueden agregar sus tarjetas Visa y MasterCard Produbanco y, de una forma rápida y sencilla, realizar pagos sin contacto, con la privacidad y seguridad que ofrece Google Pay.
 
 De esta manera, al utilizar esta herramienta, las transacciones se realizan con un número de tarjeta alternativo (un token), que es específico del dispositivo y está asociado con un código de seguridad dinámico que cambia con cada transacción.
 
