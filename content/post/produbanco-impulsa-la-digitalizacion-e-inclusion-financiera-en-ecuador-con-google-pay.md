@@ -6,7 +6,6 @@ title: Produbanco impulsa la digitalización e inclusión financiera en Ecuador 
 excerpt: ''
 date: 2023-03-02T06:00:00+00:00
 hero: "/images/sucursales.webp"
-draft: true
 
 ---
 ##### Produbanco, miembro de Grupo Promerica, se convierte en la primera institución bancaria ecuatoriana en emplear esta plataforma para realizar pagos online desde dispositivos móviles.
