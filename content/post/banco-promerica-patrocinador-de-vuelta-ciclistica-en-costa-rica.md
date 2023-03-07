@@ -5,7 +5,6 @@ title: Banco Promerica patrocinador de vuelta ciclística en Costa Rica.
 excerpt: ''
 date: 2023-03-01T06:00:00+00:00
 hero: "/images/vuelta-a-costa-rica.jpg"
-draft: true
 
 ---
 **La inclusión social y sostenibilidad son dos ejes importantes para Grupo Promerica**.
