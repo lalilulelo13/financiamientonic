@@ -5,7 +5,6 @@ title: Remesas seguras con Grupo Promerica
 excerpt: ''
 date: 2023-03-13T06:00:00+00:00
 hero: "/images/promerica_01-jpg_673822677.webp"
-draft: true
 
 ---
 **La financiera tiene convenios con diferentes empresas remesadoras entre éstas: Ria, MoneyGram, Transnetwork, DolEx, Viamericas, Uniteller, Teledolar, Sigue, Intermex, MaxiTransfer y Remitly.**
