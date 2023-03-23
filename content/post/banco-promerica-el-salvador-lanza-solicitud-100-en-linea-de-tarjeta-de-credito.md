@@ -1,9 +1,9 @@
 ---
-timeToRead: 0
+timeToRead: 8
 authors: []
 title: 'Banco Promerica El Salvador lanza solicitud 100% en línea de tarjeta de crédito '
 excerpt: ''
-date: 
+date: 2023-03-14T06:00:00+00:00
 hero: "/images/banner-principal.png"
 
 ---
