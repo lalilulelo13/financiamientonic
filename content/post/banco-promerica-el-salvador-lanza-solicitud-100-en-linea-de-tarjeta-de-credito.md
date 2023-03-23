@@ -5,7 +5,6 @@ title: 'Banco Promerica El Salvador lanza solicitud 100% en línea de tarjeta de
 excerpt: ''
 date: 
 hero: "/images/banner-principal.png"
-draft: true
 
 ---
 **Es la primera institución bancaria a nivel nacional en ofrecerla y con una respuesta al instante.**
