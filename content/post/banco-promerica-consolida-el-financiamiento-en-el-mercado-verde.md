@@ -5,7 +5,6 @@ title: Banco Promerica consolida el financiamiento en el mercado verde.
 excerpt: ''
 date: 2023-04-10T06:00:00+00:00
 hero: "/images/estrategias_p10_financiamento_verde_camino_para_economia-jpg_1014274486.webp"
-draft: true
 
 ---
 **Comprometido con los 17 Objetivos de Desarrollo Sostenible, Banco Promerica Costa Rica maneja una cartera sostenible de $137 millones y 875 clientes comprometidos con el cambio climático.**
