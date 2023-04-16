@@ -5,7 +5,6 @@ title: 'Banco Promerica Guatemala a la vanguardia con servicios electrónicos '
 excerpt: ''
 date: 2023-04-11T06:00:00+00:00
 hero: "/images/banca-verde.JPG"
-draft: true
 
 ---
 **La banca móvil es parte del estilo de vida de las personas y Banco Promerica responde a esas necesidades con canales electrónicos eficientes y seguros.**
