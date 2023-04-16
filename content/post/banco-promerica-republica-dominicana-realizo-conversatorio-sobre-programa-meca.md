@@ -5,7 +5,6 @@ title: Banco Promerica República Dominicana realizó conversatorio sobre progra
 excerpt: ''
 date: 2023-04-12T06:00:00+00:00
 hero: "/images/286x174.jpg"
-draft: true
 
 ---
 ##### La financiera, miembro de Grupo Promerica destacó que la innovación debe es una aliada estratégica de las empresas.
