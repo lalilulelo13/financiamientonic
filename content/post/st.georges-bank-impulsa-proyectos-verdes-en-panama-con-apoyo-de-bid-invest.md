@@ -5,7 +5,6 @@ title: St. Georges Bank impulsa proyectos verdes en Panamá con apoyo de BID Inv
 excerpt: ''
 date: 2023-04-13T06:00:00+00:00
 hero: "/images/312519444_495670729266119_8102667267430943142_n.png"
-draft: true
 
 ---
 **La institución bancaria, miembro de Grupo Promerica recibió un financiamiento de hasta $10 millones para su cartera verde.**
