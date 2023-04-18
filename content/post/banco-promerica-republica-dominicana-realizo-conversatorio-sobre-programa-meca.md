@@ -4,7 +4,7 @@ authors: []
 title: Banco Promerica República Dominicana realizó conversatorio sobre programa MECA
 excerpt: ''
 date: 2023-04-12T06:00:00+00:00
-hero: "/images/286x174.jpg"
+hero: "/images/efaf6e2e-2076-4d85-b6c9-60ff2a0d84d9-1.jpg"
 
 ---
 ##### La financiera, miembro de Grupo Promerica destacó que la innovación debe es una aliada estratégica de las empresas.
