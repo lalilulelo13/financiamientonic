@@ -4,10 +4,15 @@ authors: []
 title: 'Financiamiento Verde: Comunicación y Transparencia'
 excerpt: ''
 date: 2023-04-25T06:00:00+00:00
-hero: "/images/banca-verde.JPG"
+hero: "/images/china-s-green-finance-market-policy-support-investment-opportunities.jpg"
 
 ---
-<h1>Financiamiento Verde: Comunicación y Transparencia</h1>
+|
+
+
+
+
+#Financiamiento Verde: Comunicación y Transparencia
 
 Si te interesa el progreso del desarrollo sostenible en el mundo financiero y quieres estar al tanto de las últimas novedades, ¡has llegado al lugar adecuado!
 
@@ -15,7 +20,7 @@ El crecimiento económico es uno de los principales motores del mundo. Sin embar
 
 Por eso, cada vez más instituciones bancarias, tanto en América Central como en otras regiones del planeta, se comprometen con políticas y proyectos ecológicos. Además de fomentar el crecimiento financiero, el progreso tecnológico y la creación de puestos de trabajo, concilian las necesidades humanas con las del medio ambiente.
 
-<h2>¿Qué es la sostenibilidad financiera?</h2>
+##¿Qué es la sostenibilidad financiera?
 
 También conocido como financiamiento sostenible, se trata de un cambio de cultura que, cada vez con más fuerza, empieza a asentarse sólidamente en nuestro rumbo económico y social.
 
@@ -37,21 +42,21 @@ El mundo contemporáneo obliga a muchos sectores económicos a satisfacer las ne
 
 Además de la evidente contribución al bienestar medioambiental, las organizaciones se benefician también de varias formas: establecen sus ideales, consiguen una promoción positiva y muestran claramente su compromiso con la sociedad.
 
-<h2>Lo que encontrarás en nuestro portal</h2>
+##Lo que encontrarás en nuestro portal
 
 Actualizamos con frecuencia las noticias más relevantes respecto a la financiación sostenible en países de Centroamérica. Recuerda visitarnos con frecuencia si quieres aprender acerca de:
 
-Las medidas con las que Grupo Promerica promueve una economía ecológica e integral.
+- Las medidas con las que Grupo Promerica promueve una economía ecológica e integral.
 
-Los recientes éxitos de Banco Promerica promoviendo la movilidad eléctrica en Costa Rica.
+- Los recientes éxitos de Banco Promerica promoviendo la movilidad eléctrica en Costa Rica.
 
-Cuáles son las empresas financieras más galardonadas por apoyar el crecimiento económico sostenible en Centroamérica, como es el caso de Banpro Nicaragua.
+- Cuáles son las empresas financieras más galardonadas por apoyar el crecimiento económico sostenible en Centroamérica, como es el caso de Banpro Nicaragua.
 
-Solicitudes en línea, créditos verdes, inversiones ecológicas y otras medidas con las que estas instituciones aseguran el financiamiento sostenible.
+- Solicitudes en línea, créditos verdes, inversiones ecológicas y otras medidas con las que estas instituciones aseguran el financiamiento sostenible.
 
-Cumbres, conversaciones y ceremonias en las que se discuten estos y otros temas relacionados.
+- Cumbres, conversaciones y ceremonias en las que se discuten estos y otros temas relacionados.
 
-Futuros proyectos con los que varias organizaciones financieras muestran su compromiso ecológico y apuestan por el futuro.
+- Futuros proyectos con los que varias organizaciones financieras muestran su compromiso ecológico y apuestan por el futuro.
 
 Nosotros también estamos comprometidos con el desarrollo sostenible en Centroamérica. Por eso nos aseguramos de seguir el progreso de este sector y aportar, con la máxima frecuencia posible, noticias relevantes explicadas con claridad y transparencia.
 
