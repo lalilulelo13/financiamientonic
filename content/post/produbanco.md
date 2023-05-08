@@ -4,7 +4,7 @@ authors: []
 title: 'Produbanco activa “Corresponsal No Bancario PagoÁgil”'
 excerpt: ''
 date: 2023-05-03T06:00:00+00:00
-hero: "/images/cweb1-100-produbanco.jpg"
+hero: "/images/web1-100-produbanco.jpg"
 
 ---
 |
