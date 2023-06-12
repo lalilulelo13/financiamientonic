@@ -4,7 +4,7 @@ authors: []
 title: 'St. Georges Bank se sumó a la jornada nacional de reciclaje “Yo celebro reciclando”'
 excerpt: ''
 date: 2023-06-06T06:00:00+00:00
-hero: "/images/-georges-bank-1-1-1024x683.jpg"
+hero: "/images/St-georges-bank-1-1-1024x683.jpg"
 
 ---
 |
